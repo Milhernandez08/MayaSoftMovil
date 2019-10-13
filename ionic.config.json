@@ -1,5 +1,7 @@
 {
   "name": "MayaSoft",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
